@@ -1,3 +1,3 @@
 # pytorch
 
-repo specifically for pytorch projects.
+repo specifically for understanding pytorch projects.
